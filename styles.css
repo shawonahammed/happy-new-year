@@ -1,0 +1,62 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background: rgb(255, 255, 255);
+}
+.banner{
+    text-align: center;
+    color: white;
+}
+.banner-head{
+    background-image: url(/images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    margin: 40px 100px 0px 100px;
+    border-radius: 16px;
+}
+.banner-title{
+    font-family: Merriweather;
+    font-size: 32px;
+    padding-top: 60px;
+    
+}
+.banner-description{
+    font-family: Merriweather;
+    font-size: 70px;
+    width: 500px;
+    margin: 0 auto;
+    
+}
+.happy-new-year{
+    text-align: center;
+    padding: 100px 400px 0 400px;
+}
+.holyday-off{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 70px;
+    font-weight: 700;
+
+}
+.holyday-title{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px
+}
+.holayday-categories{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+.img-happy-new-year{
+    width: 802.9px;
+    height: 500px;
+    margin: 0 auto;
+}
