@@ -183,9 +183,94 @@
     font-weight: 400;
     width: 300px;
 }
-img{
-    background: linear-gradient(180.00deg, rgb(248, 246, 251) 12.89%,rgb(239, 220, 251) 175.655%);
+
+.holiday-section{
+    width: 1320px;
+    height: 986.07px;
+    margin: 0  auto;
+}
+
+.holiday-sale{
+    text-align: center;
+    margin: 150px 250px 80px 250px;
+}
+.holiday-item{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.holiday-title{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+}
+.holiday-styles{
+    color: red;
+}
+.holiday-description{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    width: 850px;
+    margin: 0 auto;
     padding-top: 30px;
 }
 
+.img-2 img{
+    width: 450px;
+    height: 403px;
+    position: relative;
+    left: 150px;
+    bottom: 450;: 450px;
+
+}
+.img-1 img{
+    height: 100px; 
+    width: 1320px;
+    position: relative;
+    top: 427px;
+}
+.img-4 img{
+    position: relative;
+    width: 429px;
+    height: 433px;
+    left: 891px;
+    bottom: 825px;
+}
+.img-3 img{
+    position: relative;
+    left: 730px;
+    bottom: 550px;
+    z-index: 1;
+}
+.gellary-1{
+    width: 1300px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    
+}
+.gellary-2{
+    width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+.gellary-1 img{
+    margin: 20px;
+}
+.gellary-2 img{
+    margin: 0 20px 20px 20px;
+}
+.awesome-menu{
+    margin: 70px 140px 50px 270px;
+}
+.awesome-item{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
     
