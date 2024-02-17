@@ -10,7 +10,7 @@
     color: white;
 }
 .banner-head{
-    background-image: url(/images/Banner\ Image.png);
+    background-image: url(images/Banner\ Image.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -61,7 +61,7 @@
     margin: 0 auto;
 }
 .welcome-start{
-    background-image: url(/images/Vectorrr.png);
+    background-image: url(images/Vectorrr.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
